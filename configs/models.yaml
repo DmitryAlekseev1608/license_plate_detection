@@ -1,4 +1,4 @@
-yolov8s:
-  epochs: 2
+yolov8s.pt:
+  epochs: 100
   imgsz: 640
   batch: 32

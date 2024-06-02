@@ -1,0 +1,2 @@
+path_data_config: '/home/xts/D/alex/license_plate_detection/configs/data.yaml'
+worker: 32

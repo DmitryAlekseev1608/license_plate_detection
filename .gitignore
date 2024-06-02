@@ -1,0 +1,8 @@
+data/test
+data/train
+data/valid
+data/video
+__pycache__
+models/*
+venv/
+runs/
